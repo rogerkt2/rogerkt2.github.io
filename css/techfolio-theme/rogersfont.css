@@ -6,9 +6,9 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-black1: #000e2c;
-  --tf-black2: #000717;
-  --tf-black3: #000d2b;
+  --tf-black1: #000207;
+  --tf-black2: #00050c;
+  --tf-black3: #000813;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--bs-blue);
   --tf-pill-bg: var(--bs-gray);
@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5 {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-icon-fill);
+  fill: var(--tf-black1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;

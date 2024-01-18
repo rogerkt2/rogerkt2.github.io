@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Project Test"
-date: 2024-18-01
+date: 2024-01-18
 published: true
 labels:
   - Test

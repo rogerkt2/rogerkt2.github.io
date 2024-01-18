@@ -17,6 +17,7 @@
   --tf-page-bg-color: var(--tf-black1);
   --tf-footer-bg-color: var(--tf-black2);
   --tf-projects-bg-color: var(--tf-black3);
+  color: var(--bs-white);
 }
 
 h1,h2,h3,h4,h5 {

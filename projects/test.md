@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/gamecontroller.jpg
 title: "New Game Development Team"
 date: 2023-12
 published: true

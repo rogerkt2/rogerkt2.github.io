@@ -13,12 +13,12 @@
   --tf-black1:#000000;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-blue1);
-  --tf-pill-bg: var(--tf-black);
+  --tf-pill-bg: var(--tf-black1);
   --tf-icon-fill: var(--tf-white);
   --tf-icon-hover: var(--tf-blue3);
   --tf-page-bg-color: var(--bs-black1);
-  --tf-footer-bg-color: var(--tf-black);
-  --tf-projects-bg-color: var(--tf-black);
+  --tf-footer-bg-color: var(--tf-black1);
+  --tf-projects-bg-color: var(--tf-black1);
 }
 
 h1,h2,h3,h4,h5 {

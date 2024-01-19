@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "New Game Development Team"
-date: 2024-01-18
+date: 2023-12
 published: true
 labels:
   - Game Development

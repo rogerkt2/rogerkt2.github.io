@@ -19,3 +19,8 @@ Smart questions are essential for smart software engineers. What is a smart ques
 
 ## Smart Question Analysis
 
+To learn more about what a smart question is, lets take a look at this [question](https://stackoverflow.com/questions/20922609/why-does-optimisation-kill-this-function) found in StackOverflow.
+
+In this question, the user asks a question on why an optimization of the code will result in it not doing anything. This question is an example of a smart question because the user displayed that they really looked into the code before asking. His claim about the code’s readability issue provides support to my reasoning. Furthermore, he provides a great explanation for his question. He explains his professor’s statement and then makes it clear that he does not understand why it happens.
+
+As a result of this smart question, the user received a good answer. The answer provided many references to other websites or articles that could aid the user along with an explanation from the answerer.

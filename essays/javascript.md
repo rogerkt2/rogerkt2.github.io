@@ -18,3 +18,5 @@ So far, my experience with learning and using Javascript is interesting. I am a 
 I like the concept of Athletic Software Engineering. It puts you into a competition with other fellow students to program a given prompt. In this competition, your fluency with Javascript is put to the test by having a time ranking. Basically, each student is in a race to see who completes the given prompt within a certain time limit. Athletic Software Engineering prepares students for their future careers. Workout-of-the-Day or WODs are a way of introducing students to Athletic Software Engineering. These WODs put students in a scenario where they would be in a coding interview.
 
 ## Final Thoughts
+
+Overall, Javascript is a great language to use and I will make sure that I will keep it near the top of my arsenal. As for Athletic Software Engineering, it is an extremely helpful practice for students like me who will soon enter the professional world of programming. It can be stressful, but it turns your brain into a world-star athlete.

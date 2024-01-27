@@ -24,3 +24,9 @@ To learn more about what a smart question is, lets take a look at this [question
 In this question, the user asks a question on why an optimization of the code will result in it not doing anything. This question is an example of a smart question because the user displayed that they really looked into the code before asking. His claim about the code’s readability issue provides support to my reasoning. Furthermore, he provides a great explanation for his question. He explains his professor’s statement and then makes it clear that he does not understand why it happens.
 
 As a result of this smart question, the user received a good answer. The answer provided many references to other websites or articles that could aid the user along with an explanation from the answerer.
+
+## Not-So-Smart Question Analysis
+
+On the other hand, let's look into what a not-so-smart question is. Here is an [example](https://stackoverflow.com/questions/77891165/sum-of-two-columns-in-two-different-tables) from StackOverflow.
+
+In this question, the user provides a problem where they need to find the sum of the values from two tables. By looking at this question, you can easily see that this shouldn't be called a question at all. To me, it looks more like a demand. Sure the user is very straightforward with what their problem is, but the user does not show that they made any attempt at solving this problem himself. It really feels like they are asking the people on StackOverflow to do their work for them. To make this a smart question, the user shoud have made sure they provided some evidence that they really tried their best at solving their problem. It truly felt like the user just gave up.

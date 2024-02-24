@@ -25,4 +25,5 @@ However, the claim that it helps you build your websites easily using less code 
 </p>
 Here are the two websites that I previously mentioned. *HTML/CSS (left) and Bootstrap 5 (right)*
 
-As you can see 
+## The Comparison
+Both websites do look alike except for minor changes in the background color and the navigation layout. I like the layout of the Bootstrap version better. It has a hanging navigation bar that stays on your screen whether you scroll up or down. The font readability has improved and the column position is perfect. In the raw version, the middle column is a bit higher than the others.

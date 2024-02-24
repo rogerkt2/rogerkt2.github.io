@@ -20,5 +20,5 @@ Bootstrap 5 is a framework tool that helps you build your websites easily using 
 
 However, the claim that it helps you build your websites easily using less code still stands. I was tasked to create a website about the history of internet browsers using raw HTML/CSS and replicate it using Bootstrap 5 under a time limit. It took me about three attempts to complete the task using HTML/CSS while it took only two attempts when using Bootstrap 5. I had an incredibly hard time creating three columns in line with each other on my website using raw HTML/CSS. With Bootstrap 5, it took several lines of code and I was done. If I were to create this website again using the experience I have with Bootstrap 5 now, I would be able to complete it on my first attempt.
 
-<img width="150px" class="rounded float-start pe-4" src="../img/historyOfBrowsers_raw.png">
-<img width="150px" class="rounded float-end pe-4" src="../img/historyOfBrowsers_bootstrap.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/historyOfBrowsers_raw.png">
+<img width="300px" class="rounded float-end pe-4" src="../img/historyOfBrowsers_bootstrap.png">

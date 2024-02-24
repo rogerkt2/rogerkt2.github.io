@@ -22,3 +22,7 @@ However, the claim that it helps you build your websites easily using less code 
 
 <img width="500px" class="rounded float-start pe-4" src="../img/historyOfBrowsers_raw.png">
 <img width="500px" class="rounded float-end pe-4" src="../img/historyOfBrowsers_bootstrap.png">
+
+Here are the two websites that I previously mentioned. *HTML/CSS (left) and Bootstrap 5 (right)*
+
+As you can see

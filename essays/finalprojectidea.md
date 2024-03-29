@@ -20,7 +20,7 @@ Finding a compatible roommate is a significant challenge for many students, both
 Allow students to create detailed profiles that cover a range of preferences and use AI assistance to match students with the most compatible roommates. This algorithm will analyze profile information and offer options for students who would most likely enjoy living together.
 
 ## Mockup Page Ideas
-<center><img width="500px" class="rounded pe-4" src="../img/digitssite.png"></center>
+<center><img width="800px" class="rounded pe-4" src="../img/digitssite.png"></center>
 The page would look quite similar to the digits page that we worked on for ICS 314. Instead of professors, the cards will display the most compatible roommates based on the user's preferences and/or interests. The site will have a navigation bar that brings you to pages where you can match with new possible roommates, view your matches, and view or edit your profile.
 
 ## Use Case Ideas

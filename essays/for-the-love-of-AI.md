@@ -11,7 +11,7 @@ labels:
 ---
 
 ### I. Introduction
-From the start of college, the use of AI was strictly forbidden in every course I took. One small trace of AI use in your work and **BANG** your grade for that class or even your time as a college student is over. This taboo remained in all of my courses except ICS 314. In this course, we were encouraged to use AI in order to aid us with our software engineering work. In general, AI tools such as ChatGPT and Bard are useful for getting quick tips, instructions, or explanations on a certain topic. 
+From the start of college, the use of AI was strictly forbidden in every course I took. One small trace of AI use in your work and **BANG** your grade for that class or even your time as a college student is over. This taboo remained in all of my courses except ICS 314. In this course, we were encouraged to use AI in order to aid us with our software engineering work. In general, AI tools such as ChatGPT, Bard, and Grammarly are useful for getting quick tips, instructions, or explanations on a certain topic. 
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
@@ -30,11 +30,15 @@ Now this is when I began to struggle. In-class WODs test students on their abili
 
   4. Essays
 
-As much as I love using AI to help me with coding, I do not feel 
+For all of the essays I have written in this class, I used AI. As of writing this reflection, I have realized that Grammarly is an AI tool. Grammarly helps keep the grammar in your essay in tip-top shape. When writing essays, I do not recommend AI to write the essay for you. I only used AI to check the grammar in my work.
 
   5. Final project
 
+When we began working on the final project, my browser search history was basically all ChatGPT and Bard. AI was my right-hand man during this whole process of building a website. Building a website is fun, but it sure is frustrating at times when one thing is not working. With the help of AI, I was able to solve some complicated problems when working on the project. These problems are too specific for Google to help out. As of right now, I have an issue in the code that is too complicated for even AI to figure out. I asked both ChatGPT and Bard for tips and reasons, but to no prevail.
+
   6. Learning a concept / tutorial
+
+
 
   7. Answering a question in class or in Discord
 

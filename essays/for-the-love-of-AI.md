@@ -78,13 +78,15 @@ AI is a double-edged sword. You can learn a lot from AI or not learn anything. I
 
 ### IV. Practical Applications:
 
-As I said previously, AI is your own personal tutor. 
+As I said previously, AI is your own personal tutor. Once I graduate college, there will still be new concepts and techniques to learn about. AI is a good tool for learning about these new things. Furthermore, as AI improves in the future, it can be applied to very specific real-world issues. It could be used to plan the construction of bridges, create your schedule, or even create an entire application.
 
 ### V. Challenges and Opportunities:
 
+In this course, I observed that AI is not so good when creating applications. There is an issue in my final project that AI can't seem to figure out. When integrating AI into this course, I recommend making sure that everyone is using AI correctly. To correctly use AI is to ask the AI questions, not let AI solve the problem for you. When asking AI for help on huge projects, it is better to give them a large amount of background information on what you are doing before asking them for help.
 
 ### VI. Comparative Analysis:
 
+Traditional and AI-enhanced teaching methods are both good, but it depends on the context of software engineering education. Learn
 
 ### VII. Future Considerations:
 

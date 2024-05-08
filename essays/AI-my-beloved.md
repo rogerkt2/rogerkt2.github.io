@@ -98,3 +98,4 @@ As society progresses, so does AI. The use of AI as tool for software engineerin
 
 ### VIII. Conclusion:
 
+AI is something that everyone has to accept. As it improves, it becomes inevitable that students use it to aid their education. ICS 314 was a very important class. Not just for teaching me about software engineering, but AI as well. Without AI, my entire experience in this class would've been a whole different story. AI is a powerful tool, but we must remember to not abuse its power. Once AI becomes accepted by other courses, we must make sure that AI is used correctly in a way in which everyone is actually learning.

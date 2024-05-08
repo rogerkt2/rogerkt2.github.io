@@ -4,7 +4,9 @@
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-  1. Experience WODs e.g. E18
+ ## 1. Experience WODs
+
+
 
   2. In-class Practice WODs
 

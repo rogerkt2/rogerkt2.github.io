@@ -26,7 +26,7 @@ In-class Practice WODs are a bit like the Experience WODs but a bit more difficu
 
   3. In-class WODs
 
-Now this is when I began to struggle. In-class WODs test students on their ability to apply what they learned from the Experience WODs and complete a difficult task in a certain amount of time. There were two instances where I felt like I really did not know what to do. Time was running out and the best chance at completing the task was to use AI. I used ChatGPT for both of the times I used AI, but for one of them, ChatGPT was not helping at all. I had a syntax error and ChatGPT kept on giving me a solution that resulted in the same error. With ChatGPT letting me down, I migrated to the Bard AI which solved my problem. From this experience, I learned that if you want the best possible solution to your problem, ask both ChatGPT and Bard. Compare their answers and see which one you understand better and which works best for you.
+Now this is when I began to struggle. In-class WODs test students on their ability to apply what they learned from the Experience WODs and complete a difficult task in a certain amount of time. There were two instances where I felt like I really did not know what to do. Time was running out and the best chance at completing the task was to use AI. I used ChatGPT for both of the times I used AI, but for one of them, ChatGPT was not helping at all. From what I remember, I had a syntax error and ChatGPT kept on giving me a solution that resulted in the same error. With ChatGPT letting me down, I migrated to the Bard AI which solved my problem. From this experience, I learned that if you want the best possible solution to your problem, ask both ChatGPT and Bard. Compare their answers and see which one you understand better and which works best for you.
 
   4. Essays
 
@@ -46,7 +46,11 @@ During class discussions, our professor encourages us to use AI to answer given 
 
   8. Asking or answering a smart-question
 
+In the class Discord, people would submit smart-questions in a chat. I have to admit that when I see a question that was sent to the chat, I do not bother reading it. My mindset was that someone else could answer it or they would find the answer in time. I should stop this horrible mindset. I am currently working on a team project and that mindset that I had is unacceptable. I did not bother asking a question as well so no AI was used for this scenario.
+
   9. Coding example e.g. “give an example of using Underscore .pluck”
+
+When using AI, I like to give it background information on what I am working on. For example, I wanted to create a leveling system for my final project. I would tell the AI what I want to do and some code of the project that correlates to what I am doing. In this case, I would give the AI the code that shows the user's profile. I would then ask AI how I could add a system where that calculates the user's level and displays it on their profile. Additionally, I would ask the AI for an opinion on whether I should create the function on the same file or a separate one. *I ended up doing it on a separate file*
 
   10. Explaining code
 

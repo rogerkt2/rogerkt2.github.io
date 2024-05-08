@@ -12,11 +12,12 @@ labels:
 
 ### I. Introduction
 
+Throughout the start of college, the use of A.I. was strictly forbidden in every class I took. One small hint of a student using A.I and 
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
- ## 1. Experience WODs
+ ### 1. Experience WODs
 
 
 

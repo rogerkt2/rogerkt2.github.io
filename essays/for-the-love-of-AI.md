@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "A.I. My Beloved"
+# All dates must be YYYY-MM-DD format!
+date: 2024-05-07
+published: true
+labels:
+  - A.I.
+  - Reflection
+---
+
 ### I. Introduction
 
 

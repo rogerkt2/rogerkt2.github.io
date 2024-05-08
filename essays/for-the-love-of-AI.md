@@ -90,9 +90,11 @@ In this course, I observed that AI is not so good when creating applications. Th
 
 ### VI. Comparative Analysis:
 
-Traditional and AI-enhanced teaching methods are both good, but it depends on the context of software engineering education. Learn
+Traditional and AI-enhanced teaching methods are both good, but it depends on the context of software engineering education. When learning about the concepts present in software engineering, I recommend using AI. AI provides straightforward answers along with examples. When learning how to acutally do some software engineering such as programming or html, I recommend traditional as a priority. Most of the time, the professor would provide an in-depth guide on how to do a certain thing. If you are unable to understand the guide or the guide is not good enough, then use AI.
 
 ### VII. Future Considerations:
 
+As society progresses, so does AI. The use of AI as tool for software engineering education should be mandatory. As programmers, we should be accustomed to the use of AI since we are the ones who will create them and even improve on them in the future. This class helped me learn how to use AI appropiately. This class should continue using AI as a tool, but make sure that there should be a lesson on how to correctly use AI.
 
 ### VIII. Conclusion:
+

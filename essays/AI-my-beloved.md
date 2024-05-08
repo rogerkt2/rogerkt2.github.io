@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI My Beloved"
+title: "AI, My Beloved"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true

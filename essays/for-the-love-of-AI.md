@@ -38,9 +38,11 @@ When we began working on the final project, my browser search history was basica
 
   6. Learning a concept / tutorial
 
-
+Honestly, I only remember using AI to give me a quick definition of the concept of design Patterns. I had to write an essay about it, but I did not have time to watch an entire video on the concept. AI was able to give a good definition along with examples of what Design Patterns are.
 
   7. Answering a question in class or in Discord
+
+During class discussions, our professor encourages us to use AI to answer given questions regarding aspects of software engineering. I was able to learn plenty due to AI's straightforward answers. When I would give it a list of questions, AI would return a list of answers.
 
   8. Asking or answering a smart-question
 

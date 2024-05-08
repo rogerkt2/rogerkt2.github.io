@@ -10,6 +10,10 @@ labels:
   - Reflection
 ---
 
+<p align="center">
+  <img width="500px" class="rounded pe-4" src="../img/AIxyn.jpg">
+</p>
+
 ### I. Introduction
 From the start of college, the use of AI was strictly forbidden in every course I took. One small trace of AI use in your work and **BANG** your grade for that class or even your time as a college student is over. This taboo remained in all of my courses except ICS 314. In this course, we were encouraged to use AI in order to aid us with our software engineering work. In general, AI tools such as ChatGPT, Bard, and Grammarly are useful for getting quick tips, instructions, or explanations on a certain topic. 
 

@@ -48,26 +48,37 @@ During class discussions, our professor encourages us to use AI to answer given 
 
 In the class Discord, people would submit smart-questions in a chat. I have to admit that when I see a question that was sent to the chat, I do not bother reading it. My mindset was that someone else could answer it or they would find the answer in time. I should stop this horrible mindset. I am currently working on a team project and that mindset that I had is unacceptable. I did not bother asking a question as well so no AI was used for this scenario.
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+  9. Coding example
 
 When using AI, I like to give it background information on what I am working on. For example, I wanted to create a leveling system for my final project. I would tell the AI what I want to do and some code of the project that correlates to what I am doing. In this case, I would give the AI the code that shows the user's profile. I would then ask AI how I could add a system where that calculates the user's level and displays it on their profile. Additionally, I would ask the AI for an opinion on whether I should create the function on the same file or a separate one. *I ended up doing it on a separate file*
 
   10. Explaining code
 
+I mostly used AI to explain code while working on the final project. In some of the files in the project, I do not fully understand what is going on. Instead of pestering my group member into explaining what their code means, I use ChatGPT to give me a brief or detailed explanation of what the code or file is doing.
+
   11. Writing code
+
+In my WODs and for most of the final project, AI helped with writing code. Of course, I want to write the code myself, but when I ask AI for tips, they straight up give me code that works. I make sure to understand every code I get from AI before actually using it. 
 
   12. Documenting code
 
+There was never a point where I had to ask AI to help document code.
+
   13. Quality assurance 
+
+AI is very useful when it comes to quality. Grammarly can help with the quality of my essays while ChatGPT or Bard can help with the quality of my code. When I say the quality of my code, I mean that it helps with the formatting. 
 
   14. Other uses in ICS 314 not listed above
 
+As seen above, those were the only uses of AI in this course.
 
 ### III. Impact on Learning and Understanding:
 
+AI is a double-edged sword. You can learn a lot from AI or not learn anything. It is all determined by how you use it. From my time using AI in this course, I've used AI negatively and used it positively. There were a few times in my final project where I was losing my mind and let AI do the work for me. This is a bad example of using AI as a learning tool. Instead, it is better to treat AI as your personal tutor. Most of the time, I would ask AI questions on how to get closer to the answer that I am working towards.
 
 ### IV. Practical Applications:
 
+As I said previously, AI is your own personal tutor. 
 
 ### V. Challenges and Opportunities:
 

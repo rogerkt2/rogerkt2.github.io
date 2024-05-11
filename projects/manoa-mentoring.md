@@ -13,6 +13,10 @@ labels:
 summary: "A website that allows students to work together to achieve success in their academics."
 ---
 
+<p align="center">
+  <img width="500px" class="rounded pe-4" src="../img/manoa-mentoring.png">
+</p>
+
 Near the end of my Fall 2023 semester, I had a group project where we were tasked to program a hotel management system in C++. In this hotel management system, we had to create menu for users to use. In this menu, users have a variety of options such as check-in, check-out, create room, delete room, and more. The hotel management system keeps track of what rooms are available while holding data on a room's details (comfort level, size, etc). 
 
 Here is code for searchCustomer() and checkOutRoom() function my group and I created:

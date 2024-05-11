@@ -14,7 +14,7 @@ summary: "A website that allows students to work together to achieve success in 
 ---
 
 <p align="center">
-  <img width="500px" class="rounded pe-4" src="../img/manoa-mentoring.png">
+  <img width="800px" class="rounded pe-4" src="../img/manoa-mentoring.png">
 </p>
 
 ## Overview
@@ -34,7 +34,7 @@ Manoa Mentoring is a web application where UH students can join study sessions t
 - Created the level system that computes and displays the user's level
 
 The link to site can be found here: [Manoa Mentoring](https://manoa-mentoring.site/)
-Project Page is found [here].
+Project Page is found [here](https://manoa-mentoring.github.io/).
 
 Below is the LevelSystem.js file. It is the brain that computes the user's level data.
 ```cpp

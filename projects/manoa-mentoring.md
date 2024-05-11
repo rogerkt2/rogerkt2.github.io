@@ -1,13 +1,16 @@
 ---
 layout: project
 type: project
-image: img/hotel.png
+image: img/manoa-mentoring.png
 title: "Manoa Mentoring"
 date: 2024
 published: true
 labels:
-  - C++
-summary: "I worked in a group project where we created a hotel management system in C++"
+  - Meteor
+  - MongoDB
+  - React/Bootstrap
+  - Website
+summary: "A website that allows students to work together to achieve success in their academics."
 ---
 
 Near the end of my Fall 2023 semester, I had a group project where we were tasked to program a hotel management system in C++. In this hotel management system, we had to create menu for users to use. In this menu, users have a variety of options such as check-in, check-out, create room, delete room, and more. The hotel management system keeps track of what rooms are available while holding data on a room's details (comfort level, size, etc). 

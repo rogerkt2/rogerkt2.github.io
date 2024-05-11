@@ -33,6 +33,9 @@ Manoa Mentoring is a web application where UH students can join study sessions t
 - Created profile collection that holds all users profile data (ex: First Name, Last Name, School Year, etc.)
 - Created the level system that computes and displays the user's level
 
+The link to site can be found here: [Manoa Mentoring](https://manoa-mentoring.site/)
+Project Page is found [here].
+
 Below is the LevelSystem.js file. It is the brain that computes the user's level data.
 ```cpp
 // Function to calculate the level up threshold based on the user's level

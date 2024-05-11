@@ -4,7 +4,7 @@ type: essay
 title: "A Coding Toolbox"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
-published: true
+published: false
 labels:
   - Software Engineering
   - Design Patterns

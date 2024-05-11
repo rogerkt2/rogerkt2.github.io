@@ -17,50 +17,71 @@ summary: "A website that allows students to work together to achieve success in 
   <img width="500px" class="rounded pe-4" src="../img/manoa-mentoring.png">
 </p>
 
-Near the end of my Fall 2023 semester, I had a group project where we were tasked to program a hotel management system in C++. In this hotel management system, we had to create menu for users to use. In this menu, users have a variety of options such as check-in, check-out, create room, delete room, and more. The hotel management system keeps track of what rooms are available while holding data on a room's details (comfort level, size, etc). 
+## Overview
+Manoa Mentoring is a web application where UH students can join study sessions to aid each other in their academics. Those signing up for the site can distinguish themselves as students or mentors. Users will be able to create and join study sessions on a particular topic. 
 
-Here is code for searchCustomer() and checkOutRoom() function my group and I created:
+### Features
+- A page to view all profiles of students and mentors (Contacts such as emails are displayed for communication)
+- A page to manage and view all of the study sessions that you joined or created
+- A calendar to view all the sessions that the user joined
+- A leveling system to track the amount of activity you've done on the site. 
 
+### My Contributions
+- Code and Design for the registration page
+- Code and Design for the login page
+- Code and Design for the profile creation page
+- Created profile collection that holds all users profile data (ex: First Name, Last Name, School Year, etc.)
+- Created the level system that computes and displays the user's level
+
+Below is the LevelSystem.js file. It is the brain that computes the user's level data.
 ```cpp
-//Iterate through the guests and find if the guest's name matches the inputed name or an error if there is no match found 
-void searchCustomer(const vector<Customer>& guests) {
-    string userName;
-    cout << "Enter Customer Name: ";
-    cin.ignore();  // Ignore newline character left in the buffer
-    getline(cin, userName);
+// Function to calculate the level up threshold based on the user's level
+function threshold(userId) {
+  // Get user info
+  const profile = Profiles.collection.findOne({ owner: userId });
 
-      for(int i = 0; i < guests.size(); i++){
-        if(userName == guests[i].getName()){
-          guests[i].displayCustomerDetails();
-          return;
-        }
-      }
-      cout << "Customer not found" << endl;
+  if (profile) {
+    const currentLevel = profile.level;
+    let levelUpThreshold = 100; // Base threshold for level 1
+
+    // Calculate level up threshold based on current level
+    for (let i = 1; i < currentLevel; i++) {
+      levelUpThreshold = Math.ceil(levelUpThreshold * 1.5); // Increase threshold by 1.5 times
+    }
+
+    return levelUpThreshold;
+  }
+  return null;
 }
-//Checks a guest out of a room by iterating through the guest and room vectors to find if the correct guest and room, then removes the guest from the room and marks the room as available
-void checkOutRoom(vector<Customer>& guests, vector<Room>& rooms) {
-    int roomNumber, numDays, roomIndex = -1, guestIndex = -1;
-    cout << "Enter Room Number: ";
-    cin >> roomNumber;
-  //checks to see if room number matches the guest's room number and the rooms room number
-    for(int i = 0; i < guests.size(); i++){
-      if(roomNumber == guests[i].getRoomNumber()){
-        guestIndex = i;
-        break;
-      }
-    }
-    for(int j = 0; j < rooms.size(); j++){
-      if(rooms[j].getNumber() == roomNumber){
-        roomIndex = j;
-      }
-    }
-        cout << "Enter length of stay: ";
-        cin >> numDays;
-      //displays the customer's information and amount due
-        guests[guestIndex].displayCheckOutDetails(rooms[roomIndex].getRent() * numDays);
 
-        // Mark the room as available
-        rooms[roomIndex].unbook();
+// Function to update user's level and experience points
+function LevelSystem(userId, exp) {
+  // Get user info
+  const profile = Profiles.collection.findOne({ owner: userId });
+  console.log(profile);
 
+  if (profile) {
+    const currentLevel = profile.level;
+    const currentExp = profile.exp;
+
+    let newExp = currentExp + exp;
+    let newLevel = currentLevel;
+    let levelUpThreshold = threshold(userId); // Calculate level up threshold using the exported function
+
+    // Check if new exp reaches or surpasses level up threshold
+    while (newExp >= levelUpThreshold) {
+      newLevel++;
+      newExp -= levelUpThreshold; // Reduce exp by the level up threshold
+
+      // Update level up threshold for the next level
+      levelUpThreshold = Math.ceil(levelUpThreshold * 1.5);
+    }
+
+    // Update the user's profile with new level and exp
+    Profiles.collection.update(profile._id, { $set: { level: newLevel, exp: newExp } });
+  } else {
+    // Handle case where user profile is not found (optional)
+    console.log('User profile not found for ID:', userId);
+  }
 }
 ```

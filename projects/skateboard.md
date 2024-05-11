@@ -4,7 +4,7 @@ type: project
 image: img/skateboardprojecticon.jpg
 title: "Skateboard Builds"
 date: 2024
-published: true
+published: false
 labels:
   - Skateboarding
 summary: "I set up a bunch of my friend's skateboards, including my own"
